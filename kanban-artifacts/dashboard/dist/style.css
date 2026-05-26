@@ -1,0 +1,9 @@
+/* Kanban Artifacts — dashboard plugin styles */
+
+:root {
+  --plugin-accent: #3b82f6;
+}
+
+[data-plugin="kanban-artifacts"] {
+  font-family: inherit;
+}
