@@ -1,0 +1,14 @@
+{
+  "name": "kanban-artifacts",
+  "label": "Kanban Artifacts",
+  "description": "Browse and preview output files from Hermes Kanban task workspaces",
+  "icon": "FolderOpen",
+  "version": "1.0.0",
+  "tab": {
+    "path": "/kanban-artifacts",
+    "position": "after:kanban"
+  },
+  "entry": "dist/index.js",
+  "css": "dist/style.css",
+  "api": "plugin_api.py"
+}
